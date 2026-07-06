@@ -1,0 +1,15 @@
+{
+  "name": "EDU",
+  "questions": [
+    "die Braut aus dem Kindergarten kennt",
+    "den Bräutigam aus dem Kindergarten kennt",
+    "mit der Braut zur Schule ging",
+    "mit dem Bräutigam zur Schule ging",
+    "mit der Braut studiert hat",
+    "test"
+  ],
+  "min_per_card": 0,
+  "max_per_card": 1,
+  "use_as_filler": false,
+  "enabled": false
+}

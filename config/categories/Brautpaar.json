@@ -1,0 +1,22 @@
+{
+  "name": "Brautpaar",
+  "questions": [
+    "dem Brautpaar beim Umzug geholfen hat",
+    "mit dem Brautpaar schon im Urlaub war",
+    "mit dem Brautpaar verwandt ist",
+    "schneller schwimmt als die Braut",
+    "das Brautpaar schon einmal zum Essen eingeladen hat",
+    "schon einmal von der beruflichen Expertise der Braut beraten wurde",
+    "mit der Braut oder dem Bräutigam schon einmal im selben Verein oder Team aktiv war",
+    "mit dem Bräutigam schon einmal im Stadion war",
+    "mit dem Bräutigam schon einmal über die beste Schnitzel-Panade philosophiert hat",
+    "die Braut länger als den Bräutigam kennt",
+    "den Bräutigam länger als die Braut kennt",
+    "mit dem Brautpaar den Ausblick von einem Gipfel genossen hat",
+    "den Bräutigam schon mal mit Süßigkeiten bestochen hat"
+  ],
+  "min_per_card": 1,
+  "max_per_card": 1,
+  "use_as_filler": false,
+  "enabled": true
+}

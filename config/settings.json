@@ -1,0 +1,63 @@
+{
+  "language": "de",
+  "rows": 5,
+  "cols": 5,
+  "number_of_cards": 80,
+  "random_seed": null,
+  "title": "Bingo Generator",
+  "subtitle": "Braut ❤ Bräutigam",
+  "date": "04.07.2026",
+  "intro_text": "Finde jemanden, der oder die ...",
+  "intro_alignment": "center",
+  "title_font": "Brush Script MT",
+  "subtitle_font": "Calibri",
+  "date_font": "Calibri",
+  "intro_font": "Calibri",
+  "cell_font": "Calibri",
+  "title_size_pt": 36.0,
+  "subtitle_size_pt": 15.0,
+  "date_size_pt": 14.0,
+  "intro_size_pt": 12.0,
+  "cell_font_size_pt": 8.0,
+  "title_color": "96B4AF",
+  "subtitle_color": "B5958B",
+  "date_color": "B5958B",
+  "intro_color": "594E4A",
+  "cell_text_color": "594E4A",
+  "grid_border_color": "F2D6C4",
+  "cell_bg_light": "FFFDFB",
+  "cell_bg_dark": "FAF0E6",
+  "page_width_inch": 8.27,
+  "page_height_inch": 11.69,
+  "margins": {
+    "top": 0.35,
+    "bottom": 0.45,
+    "left": 0.45,
+    "right": 0.45,
+    "footer_distance": 0.35
+  },
+  "auto_cell_size": true,
+  "cell_size_inch": 1.25,
+  "cell_padding_twips": 100,
+  "title_top_spacing_pt": 22.0,
+  "grid_top_gap_inch": 0.0,
+  "grid_border_width_pt": 1.0,
+  "top_left_image": {
+    "path": "assets/corners/eucalyptus_top_left.png",
+    "width_inch": 1.25
+  },
+  "top_right_image": {
+    "path": "assets/corners/eucalyptus_top_right.png",
+    "width_inch": 1.25
+  },
+  "bottom_left_image": {
+    "path": "assets/corners/eucalyptus_bottom_left.png",
+    "width_inch": 1.25
+  },
+  "bottom_right_image": {
+    "path": "assets/corners/eucalyptus_bottom_right.png",
+    "width_inch": 1.25
+  },
+  "output_path": "bingo_cards.docx",
+  "output_format": "docx"
+}
